@@ -1,5 +1,7 @@
 # Go Rest API Starter 
 
+![](https://cdn-images-1.medium.com/max/607/0*fyyS1OHEaQ2il8Tg.png) 
+
 ## Structure Folder
 
 
@@ -96,6 +98,6 @@ example file .env
 
 ## Contact me
 
-Rahmat Wahyu Hadi
+Rahmat Wahyu Hadi ; 
 Telegram : @rwahyu
 	
