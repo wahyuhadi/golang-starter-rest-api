@@ -89,7 +89,7 @@ example file .env
 
 [PUT] localhost:3000/v1/user/1
 	
-### 4. DELETE BY ID
+### 5. DELETE BY ID
 
 [DELETE] localhost:3000/v1/user/1
 
