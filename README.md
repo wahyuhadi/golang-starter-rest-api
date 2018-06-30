@@ -3,26 +3,26 @@
 ## Structure Folder
 
 
-├── application
-│   ├── controller
-│   │   ├── ApiController.go
-│   │   └── UserController.go
-│   ├── lib
-│   │   ├── BaseModel.go
-│   │   ├── Middleware.go
-│   │   ├── Request.go
-│   │   └── Response.go
-│   ├── middlewares
-│   │   └── Cors.go
-│   ├── router.go
-│   └── server.go
-├── config
-│   └── database.go
-├── main.go
-└── models
-  	└── User.go
+		├── application
+		│   ├── controller
+		│   │   ├── ApiController.go
+		│   │   └── UserController.go
+		│   ├── lib
+		│   │   ├── BaseModel.go
+		│   │   ├── Middleware.go
+		│   │   ├── Request.go
+		│   │   └── Response.go
+		│   ├── middlewares
+		│   │   └── Cors.go
+		│   ├── router.go
+		│   └── server.go
+		├── config
+		│   └── database.go
+		├── main.go
+		└── models
+			└── User.go
 
-6 directories, 12 files
+		6 directories, 12 files
 
 ## Auto Migration Models
 	
